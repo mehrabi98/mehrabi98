@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Mohammad, A Full Stack Web Developer
+---
 
 <!--
 **mehrabi98/mehrabi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##### 📋 A little about me:
 ```json
 {
   "full_name": "😄 Mohammad Mehrabi",
