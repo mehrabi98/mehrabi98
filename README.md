@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "full_name": "Mohammad Mehrabi",
-  "skills": "Full Stack Web Developer",
-  "located_in": "Esfahan, Iran",
+  "full_name": "😄 Mohammad Mehrabi",
+  "skills": "🌱 Full Stack Web Developer",
+  "located_in": "⚡ Esfahan, Iran",
   "year_of_birth": 2000,
   "gender": "Male"
 }
